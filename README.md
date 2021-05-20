@@ -1,5 +1,5 @@
 # Machine Learning articles search engine
-This ia a search engine to serach on Machine Learning Algorithm Easily
+This ia a search engine to serach on Machine Learning Articles Easily
 with the following features: 
  Crawler
  Analyzer that include tokenization, stop words removal and stemming.
